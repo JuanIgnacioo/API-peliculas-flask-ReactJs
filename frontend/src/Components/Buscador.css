@@ -1,0 +1,20 @@
+.searchbar{
+    margin-bottom: auto;
+    margin-top:auto;
+    height: 60px;
+    width: 300px;
+    background-color: rgb(201,216,230);
+    border-radius:30px;
+    padding: 10px;
+}
+
+.search_input{
+    color:rgb(3,3,3);
+    border:0;
+    outline: 0;
+    background: none;
+
+    line-height: 40px;
+    width: 450px;
+    caret-color: rgb(230,185,185);
+}
